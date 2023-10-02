@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="center"> AI/ML PRACTITIONER | FRONT-END WEB DEVELOPER  h3>
+<h3 align="center"> AI/ML PRACTITIONER | FRONT-END WEB DEVELOPER  <h3>
 
 ###
 
