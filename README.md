@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="center">FRONT-END WEB DEVELOPER | AI/ML ENTHUSIAST</h3>
+<h3 align="center"> AI/ML PRACTITIONER | FRONT-END WEB DEVELOPER  h3>
 
 ###
 
@@ -16,7 +16,8 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning WEB DEVELOPMENT and MACHINE LEARNING in PYTHON<br>👩‍💻 Practicing DSA IN JAVA</p>
+<p align="left">🌱 🚀 Aspiring Machine Learning & Deep Learning Enthusiast in Python <br>
+💻 Passionate about Front End Developer <br>👩‍💻 Practicing DSA IN JAVA</p>
 
 ###
 
