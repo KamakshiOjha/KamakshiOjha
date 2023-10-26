@@ -81,6 +81,6 @@
 
 ###
 
-[![KamakshiOjha's GitHub | Dependencies](https://stats.quine.sh/KamakshiOjha/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=KamakshiOjha)
+[![KamakshiOjha's GitHub | Stats](https://stats.quine.sh/KamakshiOjha/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=KamakshiOjha)
 
 ###
