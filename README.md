@@ -81,10 +81,6 @@
 
 ###
 
-[certificate-652ae38e4e341.pdf](https://github.com/KamakshiOjha/KamakshiOjha/files/13191764/certificate-652ae38e4e341.pdf)
-
-
-###
 
 [![KamakshiOjha's GitHub | Stats](https://stats.quine.sh/KamakshiOjha/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=KamakshiOjha)
 
