@@ -1,12 +1,5 @@
 <div align="center">
-  <lottie-player
-        src="https://assets9.lottiefiles.com/packages/lf20_xujKOThqdI.json"
-        background="transparent"
-        speed="1"
-        style="width: 300px; height: 300px;"
-        loop
-        autoplay
-    ></lottie-player>
+  <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script><lottie-player src="https://lottie.host/b8f235e0-7837-4f0c-b38c-3c894bbc449b/HPglFbGNkv.json" background="##FFFFFF" speed="1" style="width: 300px; height: 300px" loop controls autoplay direction="1" mode="normal"></lottie-player>
 </div>
 
 ###
