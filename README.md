@@ -1,5 +1,5 @@
 <div align="center">
-  <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script><lottie-player src="https://lottie.host/b8f235e0-7837-4f0c-b38c-3c894bbc449b/HPglFbGNkv.json" background="##FFFFFF" speed="1" style="width: 300px; height: 300px" loop controls autoplay direction="1" mode="normal"></lottie-player>
+  <img src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script><lottie-player src="https://lottie.host/b8f235e0-7837-4f0c-b38c-3c894bbc449b/HPglFbGNkv.json" background="##FFFFFF" speed="1" style="width: 300px; height: 300px" loop controls autoplay direction="1" mode="normal">
 </div>
 
 ###
