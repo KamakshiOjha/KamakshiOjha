@@ -1,9 +1,15 @@
+<style>
+        .lottie-small {
+            width: 20px;
+            height: 20px;
+        }
+    </style>
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216658117-5a5c9ab7-7319-4ffa-9e64-79d6bf0fb8d1.gif"><lottie-player
         src="https://lottie.host/b8f235e0-7837-4f0c-b38c-3c894bbc449b/HPglFbGNkv.json"
         background="transparent"
         speed="1"
-        style="width: 20px; height: 20px"
+        class="lottie-small"
         loop
         controls
         autoplay
