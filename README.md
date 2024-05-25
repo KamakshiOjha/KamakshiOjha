@@ -3,7 +3,7 @@
         src="https://lottie.host/b8f235e0-7837-4f0c-b38c-3c894bbc449b/HPglFbGNkv.json"
         background="transparent"
         speed="1"
-        style="width: 200px; height: 200px"
+        style="width: 20px; height: 20px"
         loop
         controls
         autoplay
