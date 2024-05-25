@@ -1,5 +1,13 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif"><lottie-player src="https://lottie.host/b8f235e0-7837-4f0c-b38c-3c894bbc449b/HPglFbGNkv.json" background="##FFFFFF" speed="1" style="width: 200px; height: 200px" loop controls autoplay direction="1" mode="normal"></lottie-player>
+  <img src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif"><lottie-player
+        src="https://lottie.host/b8f235e0-7837-4f0c-b38c-3c894bbc449b/HPglFbGNkv.json"
+        background="transparent"
+        speed="1"
+        style="width: 200px; height: 200px"
+        loop
+        controls
+        autoplay
+    ></lottie-player>
 </div>
 
 ###
