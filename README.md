@@ -100,7 +100,7 @@
 
 ###
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Kamakshiojha)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=KamakshiOjha)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ###
