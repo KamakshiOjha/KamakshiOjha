@@ -95,3 +95,12 @@
 [![KamakshiOjha's GitHub | Stats](https://stats.quine.sh/KamakshiOjha/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=KamakshiOjha)
 
 ###
+
+<h3 align="left">🏆 GitHub Profile Trophy</h3>
+
+###
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Kamakshiojha)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+###
